@@ -1,0 +1,9 @@
+{
+	"ip":"Gabut321.aternos.me",
+	"port": "21724",
+	"name": "BotGalau",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
